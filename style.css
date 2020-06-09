@@ -57,10 +57,6 @@ blockquote {
 }
 
 .image {
-  background-image: url("https://picsum.photos/300/200");
-  background-repeat: no-repeat;
-  background-position: center;
-  width: 300px;
   overflow: hidden;
 }
 
